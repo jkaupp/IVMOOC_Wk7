@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+  http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+
+  <!-- prefuse GraphML Writer | Tue Mar 03 18:10:10 EST 2015 -->
+  <key id="label" for="node" attr.name="label" attr.type="string"/>
+  <key id="expirationdate" for="node" attr.name="expirationdate" attr.type="string"/>
+  <key id="totalawardmoney" for="node" attr.name="totalawardmoney" attr.type="int"/>
+  <key id="awards" for="node" attr.name="awards" attr.type="int">
+    <default>-1</default>
+  </key>
+  <key id="startdate" for="node" attr.name="startdate" attr.type="string"/>
+  <key id="coinvestigatedawards" for="edge" attr.name="coinvestigatedawards" attr.type="int">
+    <default>-1</default>
+  </key>
+  <key id="weight" for="edge" attr.name="weight" attr.type="int">
+    <default>-1</default>
+  </key>
+
+  <graph edgedefault="undirected">
+    <!-- nodes -->
+    <node id="n0">
+      <data key="label">Carl Wieman</data>
+      <data key="expirationdate">2005-08-31</data>
+      <data key="totalawardmoney">59187411</data>
+      <data key="awards">23</data>
+      <data key="startdate">2003-05-15</data>
+    </node>
+    <node id="n1">
+      <data key="label">David Bartlett</data>
+      <data key="expirationdate">1992-07-31</data>
+      <data key="totalawardmoney">276327</data>
+      <data key="awards">3</data>
+      <data key="startdate">1990-03-01</data>
+    </node>
+    <node id="n2">
+      <data key="label">William Lineberger</data>
+      <data key="expirationdate">2011-07-31</data>
+      <data key="totalawardmoney">52540525</data>
+      <data key="awards">5</data>
+      <data key="startdate">2006-08-01</data>
+    </node>
+    <node id="n3">
+      <data key="label">Martin Goldman</data>
+      <data key="expirationdate">2000-12-31</data>
+      <data key="totalawardmoney">236465</data>
+      <data key="awards">1</data>
+      <data key="startdate">1998-10-01</data>
+    </node>
+    <node id="n4">
+      <data key="label">Dana Anderson</data>
+      <data key="expirationdate">2005-08-31</data>
+      <data key="totalawardmoney">2832001</data>
+      <data key="awards">1</data>
+      <data key="startdate">1998-09-15</data>
+    </node>
+    <node id="n5">
+      <data key="label">Kristina Johnson</data>
+      <data key="expirationdate">2005-08-31</data>
+      <data key="totalawardmoney">2832001</data>
+      <data key="awards">1</data>
+      <data key="startdate">1998-09-15</data>
+    </node>
+    <node id="n6">
+      <data key="label">Peter Conti</data>
+      <data key="expirationdate">1996-05-31</data>
+      <data key="totalawardmoney">11096447</data>
+      <data key="awards">1</data>
+      <data key="startdate">1990-12-15</data>
+    </node>
+    <node id="n7">
+      <data key="label">Wendy Adams</data>
+      <data key="expirationdate">2010-08-31</data>
+      <data key="totalawardmoney">24410</data>
+      <data key="awards">1</data>
+      <data key="startdate">2009-09-01</data>
+    </node>
+    <node id="n8">
+      <data key="label">Katherine Perkins</data>
+      <data key="expirationdate">2011-07-31</data>
+      <data key="totalawardmoney">966175</data>
+      <data key="awards">3</data>
+      <data key="startdate">2005-06-01</data>
+    </node>
+    <node id="n9">
+      <data key="label">Richard Mccray</data>
+      <data key="expirationdate">2007-04-30</data>
+      <data key="totalawardmoney">932846</data>
+      <data key="awards">1</data>
+      <data key="startdate">2003-05-15</data>
+    </node>
+    <node id="n10">
+      <data key="label">James Curry</data>
+      <data key="expirationdate">2007-04-30</data>
+      <data key="totalawardmoney">932846</data>
+      <data key="awards">1</data>
+      <data key="startdate">2003-05-15</data>
+    </node>
+    <node id="n11">
+      <data key="label">William Wood</data>
+      <data key="expirationdate">2007-04-30</data>
+      <data key="totalawardmoney">932846</data>
+      <data key="awards">1</data>
+      <data key="startdate">2003-05-15</data>
+    </node>
+    <node id="n12">
+      <data key="label">Valerie Otero</data>
+      <data key="expirationdate">2007-04-30</data>
+      <data key="totalawardmoney">932846</data>
+      <data key="awards">1</data>
+      <data key="startdate">2003-05-15</data>
+    </node>
+    <node id="n13">
+      <data key="label">Noah Finkelstein</data>
+      <data key="expirationdate">2011-07-31</data>
+      <data key="totalawardmoney">941765</data>
+      <data key="awards">2</data>
+      <data key="startdate">2005-06-01</data>
+    </node>
+    <node id="n14">
+      <data key="label">Robert Lewis</data>
+      <data key="expirationdate">1982-07-31</data>
+      <data key="totalawardmoney">497164</data>
+      <data key="awards">2</data>
+      <data key="startdate">1980-02-01</data>
+    </node>
+    <node id="n15">
+      <data key="label">William Williams</data>
+      <data key="expirationdate">1982-07-31</data>
+      <data key="totalawardmoney">497164</data>
+      <data key="awards">2</data>
+      <data key="startdate">1980-02-01</data>
+    </node>
+    <node id="n16">
+      <data key="label">Eric Cornell</data>
+      <data key="expirationdate">2011-07-31</data>
+      <data key="totalawardmoney">29207613</data>
+      <data key="awards">2</data>
+      <data key="startdate">2006-08-01</data>
+    </node>
+    <node id="n17">
+      <data key="label">Robert Parson</data>
+      <data key="expirationdate">2011-07-31</data>
+      <data key="totalawardmoney">498765</data>
+      <data key="awards">1</data>
+      <data key="startdate">2008-08-01</data>
+    </node>
+    <node id="n18">
+      <data key="label">Deborah Jin</data>
+      <data key="expirationdate">2011-07-31</data>
+      <data key="totalawardmoney">13075323</data>
+      <data key="awards">1</data>
+      <data key="startdate">2006-08-01</data>
+    </node>
+    <node id="n19">
+      <data key="label">John Cooper</data>
+      <data key="expirationdate">2001-02-28</data>
+      <data key="totalawardmoney">12000000</data>
+      <data key="awards">1</data>
+      <data key="startdate">1996-03-01</data>
+    </node>
+
+    <!-- edges -->
+    <edge id="e0" source="n0" target="n1">
+      <data key="coinvestigatedawards">3</data>
+      <data key="weight">3</data>
+    </edge>
+    <edge id="e1" source="n2" target="n3">
+      <data key="coinvestigatedawards">1</data>
+      <data key="weight">1</data>
+    </edge>
+    <edge id="e2" source="n0" target="n2">
+      <data key="coinvestigatedawards">5</data>
+      <data key="weight">5</data>
+    </edge>
+    <edge id="e3" source="n0" target="n3">
+      <data key="coinvestigatedawards">1</data>
+      <data key="weight">1</data>
+    </edge>
+    <edge id="e4" source="n0" target="n4">
+      <data key="coinvestigatedawards">1</data>
+      <data key="weight">1</data>
+    </edge>
+    <edge id="e5" source="n0" target="n5">
+      <data key="coinvestigatedawards">1</data>
+      <data key="weight">1</data>
+    </edge>
+    <edge id="e6" source="n4" target="n5">
+      <data key="coinvestigatedawards">1</data>
+      <data key="weight">1</data>
+    </edge>
+    <edge id="e7" source="n2" target="n6">
+      <data key="coinvestigatedawards">1</data>
+      <data key="weight">1</data>
+    </edge>
+    <edge id="e8" source="n0" target="n6">
+      <data key="coinvestigatedawards">1</data>
+      <data key="weight">1</data>
+    </edge>
+    <edge id="e9" source="n0" target="n7">
+      <data key="coinvestigatedawards">1</data>
+      <data key="weight">1</data>
+    </edge>
+    <edge id="e10" source="n7" target="n8">
+      <data key="coinvestigatedawards">1</data>
+      <data key="weight">1</data>
+    </edge>
+    <edge id="e11" source="n0" target="n8">
+      <data key="coinvestigatedawards">3</data>
+      <data key="weight">3</data>
+    </edge>
+    <edge id="e12" source="n0" target="n9">
+      <data key="coinvestigatedawards">1</data>
+      <data key="weight">1</data>
+    </edge>
+    <edge id="e13" source="n0" target="n10">
+      <data key="coinvestigatedawards">1</data>
+      <data key="weight">1</data>
+    </edge>
+    <edge id="e14" source="n0" target="n11">
+      <data key="coinvestigatedawards">1</data>
+      <data key="weight">1</data>
+    </edge>
+    <edge id="e15" source="n0" target="n12">
+      <data key="coinvestigatedawards">1</data>
+      <data key="weight">1</data>
+    </edge>
+    <edge id="e16" source="n9" target="n12">
+      <data key="coinvestigatedawards">1</data>
+      <data key="weight">1</data>
+    </edge>
+    <edge id="e17" source="n10" target="n12">
+      <data key="coinvestigatedawards">1</data>
+      <data key="weight">1</data>
+    </edge>
+    <edge id="e18" source="n11" target="n12">
+      <data key="coinvestigatedawards">1</data>
+      <data key="weight">1</data>
+    </edge>
+    <edge id="e19" source="n9" target="n11">
+      <data key="coinvestigatedawards">1</data>
+      <data key="weight">1</data>
+    </edge>
+    <edge id="e20" source="n10" target="n11">
+      <data key="coinvestigatedawards">1</data>
+      <data key="weight">1</data>
+    </edge>
+    <edge id="e21" source="n9" target="n10">
+      <data key="coinvestigatedawards">1</data>
+      <data key="weight">1</data>
+    </edge>
+    <edge id="e22" source="n8" target="n13">
+      <data key="coinvestigatedawards">2</data>
+      <data key="weight">2</data>
+    </edge>
+    <edge id="e23" source="n0" target="n13">
+      <data key="coinvestigatedawards">2</data>
+      <data key="weight">2</data>
+    </edge>
+    <edge id="e24" source="n14" target="n15">
+      <data key="coinvestigatedawards">2</data>
+      <data key="weight">2</data>
+    </edge>
+    <edge id="e25" source="n0" target="n14">
+      <data key="coinvestigatedawards">2</data>
+      <data key="weight">2</data>
+    </edge>
+    <edge id="e26" source="n0" target="n15">
+      <data key="coinvestigatedawards">2</data>
+      <data key="weight">2</data>
+    </edge>
+    <edge id="e27" source="n2" target="n16">
+      <data key="coinvestigatedawards">2</data>
+      <data key="weight">2</data>
+    </edge>
+    <edge id="e28" source="n0" target="n16">
+      <data key="coinvestigatedawards">2</data>
+      <data key="weight">2</data>
+    </edge>
+    <edge id="e29" source="n8" target="n17">
+      <data key="coinvestigatedawards">1</data>
+      <data key="weight">1</data>
+    </edge>
+    <edge id="e30" source="n13" target="n17">
+      <data key="coinvestigatedawards">1</data>
+      <data key="weight">1</data>
+    </edge>
+    <edge id="e31" source="n0" target="n17">
+      <data key="coinvestigatedawards">1</data>
+      <data key="weight">1</data>
+    </edge>
+    <edge id="e32" source="n2" target="n18">
+      <data key="coinvestigatedawards">1</data>
+      <data key="weight">1</data>
+    </edge>
+    <edge id="e33" source="n0" target="n18">
+      <data key="coinvestigatedawards">1</data>
+      <data key="weight">1</data>
+    </edge>
+    <edge id="e34" source="n16" target="n18">
+      <data key="coinvestigatedawards">1</data>
+      <data key="weight">1</data>
+    </edge>
+    <edge id="e35" source="n0" target="n19">
+      <data key="coinvestigatedawards">1</data>
+      <data key="weight">1</data>
+    </edge>
+    <edge id="e36" source="n2" target="n19">
+      <data key="coinvestigatedawards">1</data>
+      <data key="weight">1</data>
+    </edge>
+  </graph>
+</graphml>
